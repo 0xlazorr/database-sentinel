@@ -1,0 +1,4 @@
+order_code,customer_id,total_amount,status
+ORD-501,1,350.0,COMPLETED
+ORD-503,1,499.0,SHIPPED
+ORD-504,999,1200.0,PENDING

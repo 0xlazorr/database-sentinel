@@ -1,0 +1,6 @@
+customer_code,full_name,email,tier
+CUST-001,Alice Johnson,alice@newdomain.com,VIP
+CUST-002,Bob Smith,bob@enterprise.com,STANDARD
+CUST-004,David Williams,david@enterprise.com,STANDARD
+CUST-005,Eva Green,eva@enterprise.com,ENTERPRISE
+,Invalid No Code,invalid@domain.com,STANDARD

@@ -1,0 +1,29 @@
+# Database Files
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+
+# Environment configurations
+.env
+*.env
+
+# Python Caches & Virtualenvs
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# Logs and Reports output
+logs/*.log
+reports/*.md
+reports/*.csv
+reports/*.json
+!reports/.gitkeep
+!logs/.gitkeep
+
+# Temporary files
+/tmp/
+*.tmp

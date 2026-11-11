@@ -1,0 +1,15 @@
+# Database Sentinel
+# Universal Autonomous Database Self-Healing & Reconciliation Engine
+# Python >= 3.10
+#
+# Zero external third-party dependencies required.
+# Operates natively on Python Standard Library:
+# - sqlite3 (ACID engine, storage catalogs, WAL mode)
+# - hashlib (Cryptographic signatures & parity hashing)
+# - csv (Dataset parsing & report exports)
+# - json (Structured audit trails & state snapshots)
+# - re (SQL injection threat signature parsing)
+# - argparse (CLI administrative commands)
+# - unittest (Automated test suites)
+# - time / datetime (Execution profiling & timestamps)
+# - pathlib (Cross-platform path resolution)
